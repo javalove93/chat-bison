@@ -1,0 +1,426 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - Uber는 AI를 사용하여 운전자의 수요와 공급을 예측하고, 운전자가 더 많은 수익을 올릴 수 있도록 도와줍니다",
+        "totalResults": "43900",
+        "searchTerms": "Uber는 AI를 사용하여 운전자의 수요와 공급을 예측하고, 운전자가 더 많은 수익을 올릴 수 있도록 도와줍니다",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "e5985d6d8a87d41ce"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - Uber는 AI를 사용하여 운전자의 수요와 공급을 예측하고, 운전자가 더 많은 수익을 올릴 수 있도록 도와줍니다",
+        "totalResults": "43900",
+        "searchTerms": "Uber는 AI를 사용하여 운전자의 수요와 공급을 예측하고, 운전자가 더 많은 수익을 올릴 수 있도록 도와줍니다",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "e5985d6d8a87d41ce"
+      }
+    ]
+  },
+  "context": {
+    "title": "jerry-search"
+  },
+  "searchInformation": {
+    "searchTime": 0.555772,
+    "formattedSearchTime": "0.56",
+    "totalResults": "43900",
+    "formattedTotalResults": "43,900"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "설계 단계에 동참한 전문가의 시각에서 본 클라우드 컴퓨팅의 미래",
+      "htmlTitle": "설계 단계에 동참한 전문가<b>의</b> 시각에서 본 클라우드 컴퓨팅<b>의</b> 미래",
+      "link": "https://inthecloud.withgoogle.com/vm_migration_ko/FutureofCloudComputing.html",
+      "displayLink": "inthecloud.withgoogle.com",
+      "snippet": "“클라우드는 보다 다양한 데이터 소스를. 활용하고, 더 많은 사일로를 해체하고,. 네트워크 속도를 높이고, 보다 강력한. 분석을 지원할 뿐 아니라 실존하는 그. 어떤 기술 ...",
+      "htmlSnippet": "“클라우드<b>는</b> 보다 다양한 데이터 소스<b>를</b>. 활용<b>하고</b>, <b>더 많은</b> 사일로<b>를</b> 해체<b>하고</b>,. 네트워크 속도<b>를</b> 높이고, 보다 강력한. 분석<b>을</b> 지원할 뿐 아니라 실존하는 그. 어떤 기술&nbsp;...",
+      "cacheId": "uvB0AIxLrTsJ",
+      "formattedUrl": "https://inthecloud.withgoogle.com/vm...ko/FutureofCloudComputing.html",
+      "htmlFormattedUrl": "https://inthecloud.withgoogle.com/vm...ko/FutureofCloudComputing.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1vwnSdxxuy0yP5J-v7EVHiL2Q2TgR7HoeeDyPwwmtxGO5tz9TvH-S98E",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20190508141838+07'00'",
+            "creationdate": "D:20190508141827+07'00'",
+            "creator": "Adobe InDesign CC 2017 (Windows)",
+            "producer": "Adobe PDF Library 15.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///81f83caf5b29ba43f302a422b92dc3db082b91e6a4abf7eb8d3bae24a995ccd5"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tech Trends",
+      "htmlTitle": "Tech Trends",
+      "link": "https://www2.deloitte.com/content/dam/Deloitte/kr/Documents/consumer-business/2021/kr_consumer_article_20211026.pdf",
+      "displayLink": "www2.deloitte.com",
+      "snippet": "Oct 26, 2021 ... 관측 시스템 네트워크의 도움을 받는 NOAA는 AI를 활용해 육지와 해양, ... 개발하여, 자격을 갖춘 임직원 모두가 데이터를 폭넓게 사용할 수 있. 기를 원 ...",
+      "htmlSnippet": "Oct 26, 2021 <b>...</b> 관측 시스템 네트워크<b>의</b> 도움<b>을</b> 받는 NOAA<b>는 AI를</b> 활용해 육지<b>와</b> 해양, ... 개발<b>하여</b>, 자격<b>을</b> 갖춘 임직원 모두<b>가</b> 데이터를 폭넓게 <b>사용할 수</b> 있. 기를 원&nbsp;...",
+      "formattedUrl": "https://www2.deloitte.com/content/.../kr_consumer_article_20211026.pdf",
+      "htmlFormattedUrl": "https://www2.deloitte.com/content/.../kr_consumer_article_20211026.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLPrX7DbNFkXfrXn97NLzbmMM9IWIcRsoB-W1MG-UjoZj-7xsWotjR2ms",
+            "width": "247",
+            "height": "204"
+          }
+        ],
+        "thumbnail": [
+          {
+            "src": "https://www2.deloitte.com/content/dam/Deloitte/kr/Documents/consumer-business/2021/kr_consumer_article_20211026.pdf/jcr:content/renditions/cq5dam.thumbnail.140.100.png"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20211118090937+09'00'",
+            "creationdate": "D:20211118090437+09'00'",
+            "creator": "Adobe InDesign 16.0 (Windows)",
+            "producer": "Adobe PDF Library 15.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///dad074fb8593ff24807f923199b397c96cdecabde8c0d8de1833f2fc4b7bc954"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "모빌리티인사이드 신년호 0103.indd",
+      "htmlTitle": "모빌리티인사이드 신년호 0103.indd",
+      "link": "https://www.katech.re.kr/download/fb5f56cc-99dc-4244-be5a-fe70b425bdbd;jsessionid=4865B90C735E011065C1D754EA8E3D4A",
+      "displayLink": "www.katech.re.kr",
+      "snippet": "수집 데이터를 분석, 활용하여 자동차와 관련된. AI 알고리즘 모델링과 빅데이터의 처리, 엣지 컴퓨팅 등을 주로 연. 구한다. 주요 과제로는 우선 차량용 빅데이터 플랫폼 ...",
+      "htmlSnippet": "수집 데이터<b>를</b> 분석, 활용<b>하여</b> 자동차<b>와</b> 관련된. <b>AI</b> 알고리즘 모델링과 빅데이터<b>의</b> 처리, 엣지 컴퓨팅 등<b>을</b> 주로 연. 구한다. 주요 과제로<b>는</b> 우선 차량용 빅데이터 플랫폼&nbsp;...",
+      "cacheId": "op7BS08IYvUJ",
+      "formattedUrl": "https://www.katech.re.kr/.../fb5f56cc-99dc-4244-be5a-fe70b425bdbd;...",
+      "htmlFormattedUrl": "https://www.katech.re.kr/.../fb5f56cc-99dc-4244-be5a-fe70b425bdbd;...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzoLKt-pIJ_MnI7riWvu64v8n0ve3gMwtAItfaK5D1Clc5c5rToCTPaoU",
+            "width": "253",
+            "height": "199"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20220105071328Z00'00'",
+            "creationdate": "D:20220105071328Z00'00'",
+            "creator": "Adobe InDesign 15.1 (Macintosh)",
+            "producer": "GPL Ghostscript 9.53.3",
+            "title": "모빌리티인사이드  신년호  0103.indd"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///ddb0b592e50d76ccbfff283e0b90ed9b2ed984c28f574bb0597d650b6c16afbf"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Untitled",
+      "htmlTitle": "Untitled",
+      "link": "https://www.leeko.com/upload/upFile/202010//RESE202010291355464847203.pdf",
+      "displayLink": "www.leeko.com",
+      "snippet": "Oct 29, 2020 ... 핀테크는 기술을 통해. 우리가 이용하는 금융을 간편하게 하고, 손안의 금융으로 만들어 줍니다. 최근 전 세계를 강타하고 있는 코로나-19로 인해 비대면 ...",
+      "htmlSnippet": "Oct 29, 2020 <b>...</b> 핀테크<b>는</b> 기술<b>을</b> 통해. 우리<b>가</b> 이용하는 금융<b>을</b> 간편하게 <b>하고</b>, 손안<b>의</b> 금융으로 만들어 <b>줍니다</b>. 최근 전 세계<b>를</b> 강타<b>하고</b> 있는 코로나-19로 인해 비대면&nbsp;...",
+      "formattedUrl": "https://www.leeko.com/upload/upFile/...//RESE202010291355464847203. pdf",
+      "htmlFormattedUrl": "https://www.leeko.com/upload/upFile/...//RESE202010291355464847203. pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpzcuNIkZVMIfKLx-Hw6Bx9p-3a0eClA4rzKymK1jn1yYaQSBdqk-qgZ16",
+            "width": "268",
+            "height": "188"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20200929161322+09'00'",
+            "creationdate": "D:20200929161257+09'00'",
+            "creator": "Adobe InDesign CS6 (Macintosh)",
+            "producer": "Adobe PDF Library 10.0.1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///bf1e3eac82822d587bb8a11f6a8e201dd9387db05584597a38054e4e904eda18"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "4차 산업혁명 시대의 새로운 사회갈등과 대응방향",
+      "htmlTitle": "4차 산업혁명 시대<b>의</b> 새로운 사회갈등과 대응방향",
+      "link": "https://library.krihs.re.kr/dl_image2/IMG/07/000000030646/SERVICE/000000030646_01.PDF",
+      "displayLink": "library.krihs.re.kr",
+      "snippet": "May 10, 2020 ... 시키기 위해 호텔, 레스토랑에서 영국식 차를 판매하고 SNS에 사진을 올릴 수 있도록 무 ... 우버 운전자를 포함한 시민들을 보호하고 우버 회사와 대항한.",
+      "htmlSnippet": "May 10, 2020 <b>...</b> 시키기 위해 호텔, 레스토랑에서 영국식 차<b>를</b> 판매<b>하고</b> SNS에 사진<b>을 올릴 수 있도록</b> 무 ... 우버 <b>운전자를</b> 포함한 시민들<b>을</b> 보호<b>하고</b> 우버 회사<b>와</b> 대항한.",
+      "cacheId": "ojS8pt0WxxwJ",
+      "formattedUrl": "https://library.krihs.re.kr/dl_image2/IMG/07/.../000000030646_01.PDF",
+      "htmlFormattedUrl": "https://library.krihs.re.kr/dl_image2/IMG/07/.../000000030646_01.PDF",
+      "pagemap": {
+        "metatags": [
+          {
+            "moddate": "D:20200512141331+09'00'",
+            "creationdate": "D:20200512141101+09'00'",
+            "creator": "Adobe InDesign CS5.5 (7.5)",
+            "producer": "Adobe PDF Library 9.9"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "인공지능, 노동을 지배한다 - 경향신문",
+      "htmlTitle": "인공지능, 노동<b>을</b> 지배한다 - 경향신문",
+      "link": "https://m.khan.co.kr/article/202002151422001",
+      "displayLink": "m.khan.co.kr",
+      "snippet": "Feb 15, 2020 ... 배달 플랫폼 노동자들의 배치와 통제가 AI 기술로 이루어지고 있다. AI가 노동을 고용, 지시·감독하고 보수를 정하는 데 활용되는 것이다.",
+      "htmlSnippet": "Feb 15, 2020 <b>...</b> 배달 플랫폼 노동자들의 배치<b>와</b> 통제<b>가 AI</b> 기술로 이루어지고 있다. <b>AI가</b> 노동<b>을</b> 고용, 지시·감독<b>하고</b> 보수<b>를</b> 정하는 데 활용되는 것이다.",
+      "cacheId": "PodzCGuuTykJ",
+      "formattedUrl": "https://m.khan.co.kr/article/202002151422001",
+      "htmlFormattedUrl": "https://m.khan.co.kr/article/202002151422001",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNjwiTnyIC29zLdcN9tBd84I5yqWGqrpwUaVxHNEjYYtI9tc8LQrPwNvA",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+            "twitter:card": "summary_large_image",
+            "nate:url": "//m.khan.co.kr/economy/economy-general/article/202002151422001",
+            "article:published_time": "2020-02-15T14:22:00+09:00",
+            "og:site_name": "경향신문",
+            "nate:image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+            "og:description": "쿠팡플렉스 공지를 보면 하루에도 수차례 배송단가가 바뀐다. 지난 2월 12일 서울 강남구 대치4...",
+            "twitter:image": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+            "article_id": "202002151422001",
+            "nate:description": "쿠팡플렉스 공지를 보면 하루에도 수차례 배송단가가 바뀐다. 지난 2월 12일 서울 강남구 대치4...",
+            "article:section2": "경제 일반",
+            "news_keywords": "인공지능, 노동을 지배한다",
+            "og:site": "//m.khan.co.kr/economy/economy-general/article/202002151422001",
+            "pc_url": "https://www.khan.co.kr/economy/economy-general/article/202002151422001",
+            "ssc:cmsid": "202002140100170720013322",
+            "og:type": "article",
+            "twitter:title": "인공지능, 노동을 지배한다",
+            "article:section": "경제",
+            "article:sec_id": "920100",
+            "nate:title": "인공지능, 노동을 지배한다",
+            "og:title": "인공지능, 노동을 지배한다",
+            "article:article_provide": "N",
+            "article:author": "주영재 기자",
+            "nate:site_name": "경향신문",
+            "article:honorific": "Y",
+            "taboola:author": "주영재/jyj@kyunghyang.com",
+            "viewport": "width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "쿠팡플렉스 공지를 보면 하루에도 수차례 배송단가가 바뀐다. 지난 2월 12일 서울 강남구 대치4...",
+            "mobile-web-app-capable": "yes",
+            "og:url": "//m.khan.co.kr/economy/economy-general/article/202002151422001",
+            "article:modified": "2020-02-15T14:24:00+09:00"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "세상을 바꾸는 AI미디어",
+      "htmlTitle": "세상<b>을</b> 바꾸는 <b>AI</b>미디어",
+      "link": "https://ksp.etri.re.kr/ksp/plan-report/file?id=650",
+      "displayLink": "ksp.etri.re.kr",
+      "snippet": "본 보고서의 내용은 연구자의 견해이며 ETRI의 공식 의견이 아님을 알려드립니다. 본 보고서는 ETRI 기술경제연구본부 주요사업인. “ICT R&D 경쟁력 제고를 위한 기술경제 ...",
+      "htmlSnippet": "본 보고서<b>의</b> 내용은 연구자<b>의</b> 견해이며 ETRI<b>의</b> 공식 의견이 아님<b>을</b> 알려드립니다. 본 보고서<b>는</b> ETRI 기술경제연구본부 주요사업인. “ICT R&amp;D 경쟁력 제고<b>를</b> 위한 기술경제&nbsp;...",
+      "cacheId": "XxGOR3RP5zIJ",
+      "formattedUrl": "https://ksp.etri.re.kr/ksp/plan-report/file?id=650",
+      "htmlFormattedUrl": "https://ksp.etri.re.kr/ksp/plan-report/file?id=650",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNGoDm63e485fhK-uoZ_IEk0jSd4OMI5V73g10zM73Yrt12Q_BhaUdhw0",
+            "width": "190",
+            "height": "266"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20190529154839+09'00'",
+            "creator": "Hancom PDF 1.3.0.524",
+            "creationdate": "D:20190529154839+09'00'",
+            "author": "Administrator",
+            "producer": "Hancom PDF 1.3.0.524",
+            "pdfversion": "1.4"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///19c4600956a77d34910642eef7b8695998e47e52a79ae88616399bb75caa3bbf"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "2022 혁신성장 공동기준 매뉴얼_산업은행",
+      "htmlTitle": "2022 혁신성장 공동기준 매뉴얼_산업은행",
+      "link": "https://www.newgi.org/wcmscontents/pdf/2022_manual.pdf",
+      "displayLink": "www.newgi.org",
+      "snippet": "또한 공동기준의 활용도가 높아진 만큼 사용자들이 공동기준에 대한 이해도를 높여. 혁신분야 지원에 폭넓게 활용할 수 있도록 품목 설명을 보강하고, 품목 적용 가이드를.",
+      "htmlSnippet": "또한 공동기준<b>의</b> 활용도<b>가</b> 높아진 만큼 사용자들이 공동기준에 대한 이해도<b>를</b> 높여. 혁신분야 지원에 폭넓게 활용할 <b>수 있도록</b> 품목 설명<b>을</b> 보강<b>하고</b>, 품목 적용 가이드<b>를</b>.",
+      "formattedUrl": "https://www.newgi.org/wcmscontents/pdf/2022_manual.pdf",
+      "htmlFormattedUrl": "https://www.newgi.org/wcmscontents/pdf/2022_manual.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlI4PTfxWtOFX1KFN5uqzjVT_t0YIM40QrNB1tMYOmm_mn9WXPb6gXKGs",
+            "width": "190",
+            "height": "266"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20220211123335+09'00'",
+            "creationdate": "D:20220211123335+10'00'",
+            "creator": "Adobe Illustrator 25.0 (Windows)",
+            "producer": "Adobe PDF library 15.00",
+            "title": "2022 혁신성장 공동기준 매뉴얼_산업은행",
+            "gts_pdfxversion": "PDF/X-4"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///aaf0b7abf9b3623cdf0ea457d2599fca31dc26819484720c75285819daf316c3"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "스마트시티 해외 진출전략 보고서",
+      "htmlTitle": "스마트시티 해외 진출전략 보고서",
+      "link": "http://www.tradenavi.or.kr/CmsWeb/resource/attach/report/[193]22%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%8B%9C%ED%8B%B0%ED%95%B4%EC%99%B8%EC%A7%84%EC%B6%9C%EC%A0%84%EB%9E%B5%EB%B3%B4%EA%B3%A0%EC%84%9C-d.pdf",
+      "displayLink": "www.tradenavi.or.kr",
+      "snippet": "도시에 정보통신 기술(ICT)을 접목한 스마트시티는 데이터와 디지털 기술을 통합. 하여 다양한 도시 문제를 해결하고 삶의 질을 개선하며 새로운 성장 동력을 창출하고 ...",
+      "htmlSnippet": "도시에 정보통신 기술(ICT)<b>을</b> 접목한 스마트시티<b>는</b> 데이터<b>와</b> 디지털 기술<b>을</b> 통합. <b>하여</b> 다양한 도시 문제<b>를</b> 해결<b>하고</b> 삶<b>의</b> 질<b>을</b> 개선하며 새로운 성장 동력<b>을</b> 창출<b>하고</b>&nbsp;...",
+      "formattedUrl": "www.tradenavi.or.kr/.../[193]22스마트시티해외진출전략보고서-d.pdf",
+      "htmlFormattedUrl": "www.tradenavi.or.kr/.../[193]22스마트시티해외진출전략보고서-d.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCoLEjIldQc-j0MKImBRKgQoay5R8DDjCyIjjNYACwSrMhzbQ92bAnj5kb",
+            "width": "198",
+            "height": "255"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20220610112503+09'00'",
+            "creationdate": "D:20220524110141+09'00'",
+            "creator": "PScript5.dll Version 5.2.2",
+            "author": "USER",
+            "producer": "Acrobat Distiller 9.0.0 (Windows)",
+            "title": "<BDBAB8B6C6AEBDC3C6BC20C7D8BFDCC1F8C3E220C0FCB7ABBAB8B0EDBCAD28323230353132292DC6EDC1FD2E687770>"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///b9fc18e76bdd1236b0f01d5e27257d7af44b028f47ec3cc19080545aad2ea302"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "온라인플랫폼 기반 소비자거래에서의 소비자문제 연구",
+      "htmlTitle": "온라인플랫폼 기반 소비자거래에서<b>의</b> 소비자문제 연구",
+      "link": "https://www.kca.go.kr/home/board/download.do?menukey=4062&fno=10014463&bid=00000146&did=1001984245",
+      "displayLink": "www.kca.go.kr",
+      "snippet": "또한 이용자와의. 계약 관계와 집중된 정보를 활용하여 온라인플랫폼 운영자가 분쟁해결의. 주체로서 일정 역할을 할 수 있도록 책임을 부여해야 한다. 플랫폼경제는 ...",
+      "htmlSnippet": "또한 이용자<b>와의</b>. 계약 관계<b>와</b> 집중된 정보<b>를</b> 활용<b>하여</b> 온라인플랫폼 운영자<b>가</b> 분쟁해결<b>의</b>. 주체로서 일정 역할<b>을</b> 할 <b>수 있도록</b> 책임<b>을</b> 부여해야 한다. 플랫폼경제<b>는</b>&nbsp;...",
+      "formattedUrl": "https://www.kca.go.kr/home/board/download.do?menukey=4062...",
+      "htmlFormattedUrl": "https://www.kca.go.kr/home/board/download.do?menukey=4062...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7JdYorLWrT5iqtSvbNpLDk32Z9fu7lkxnUlE5foPk1oxcPYPI41kIUqEV",
+            "width": "185",
+            "height": "273"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20161219225228+09'00'",
+            "creationdate": "D:20161206074700+09'00'",
+            "producer": "ezPDF Builder Supreme"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///47420ca92dea21dc590db7123ff55b5db7180113f6101677cf6af8dd9bc5a2b6"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    }
+  ]
+}
